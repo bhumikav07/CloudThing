@@ -1,0 +1,15 @@
+/Users/bhumika/Desktop/CloudThing/Second/Second/bin/Debug/net5.0/Second.deps.json
+/Users/bhumika/Desktop/CloudThing/Second/Second/bin/Debug/net5.0/Second.runtimeconfig.json
+/Users/bhumika/Desktop/CloudThing/Second/Second/bin/Debug/net5.0/Second.runtimeconfig.dev.json
+/Users/bhumika/Desktop/CloudThing/Second/Second/bin/Debug/net5.0/Second.dll
+/Users/bhumika/Desktop/CloudThing/Second/Second/bin/Debug/net5.0/ref/Second.dll
+/Users/bhumika/Desktop/CloudThing/Second/Second/bin/Debug/net5.0/Second.pdb
+/Users/bhumika/Desktop/CloudThing/Second/Second/obj/Debug/net5.0/Second.csprojAssemblyReference.cache
+/Users/bhumika/Desktop/CloudThing/Second/Second/obj/Debug/net5.0/Second.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bhumika/Desktop/CloudThing/Second/Second/obj/Debug/net5.0/Second.AssemblyInfoInputs.cache
+/Users/bhumika/Desktop/CloudThing/Second/Second/obj/Debug/net5.0/Second.AssemblyInfo.cs
+/Users/bhumika/Desktop/CloudThing/Second/Second/obj/Debug/net5.0/Second.csproj.CoreCompileInputs.cache
+/Users/bhumika/Desktop/CloudThing/Second/Second/obj/Debug/net5.0/Second.dll
+/Users/bhumika/Desktop/CloudThing/Second/Second/obj/Debug/net5.0/ref/Second.dll
+/Users/bhumika/Desktop/CloudThing/Second/Second/obj/Debug/net5.0/Second.pdb
+/Users/bhumika/Desktop/CloudThing/Second/Second/obj/Debug/net5.0/Second.genruntimeconfig.cache
